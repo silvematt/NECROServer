@@ -192,3 +192,12 @@
 [2025-02-12 23:25:30] [OK] [C:\Users\Mattia\Documents\Git Projects\NECROServer\NECROServer.cpp:13] Booting up NECROServer...
 [2025-02-12 23:25:30] [OK] [C:\Users\Mattia\Documents\Git Projects\NECROServer\SocketUtility.h:48] SocketUtility::Initialize() successful!
 [2025-02-12 23:25:30] [OK] [C:\Users\Mattia\Documents\Git Projects\NECROServer\NECROServer.cpp:23] Server is running...
+[2025-02-16 21:42:43] [OK] [C:\Users\Mattia\Documents\Git Projects\NECROServer\NECROServer.cpp:13] Booting up NECROServer... 
+[2025-02-16 21:42:43] [OK] [C:\Users\Mattia\Documents\Git Projects\NECROServer\SocketUtility.h:48] SocketUtility::Initialize() successful! 
+[2025-02-16 21:42:43] [OK] [C:\Users\Mattia\Documents\Git Projects\NECROServer\NECROServer.cpp:23] Server is running... 
+[2025-02-16 21:42:43] [INFO] [C:\Users\Mattia\Documents\Git Projects\NECROServer\NECROServer.cpp:38] test decimal: 10 || string hey 
+[2025-02-16 21:42:43] [OK] [C:\Users\Mattia\Documents\Git Projects\NECROServer\NECROServer.cpp:39] test decimal: 10 || string hey 
+[2025-02-16 21:42:43] [DEBUG] [C:\Users\Mattia\Documents\Git Projects\NECROServer\NECROServer.cpp:40] test decimal: 10 || string hey 
+[2025-02-16 21:42:43] [WARNING] [C:\Users\Mattia\Documents\Git Projects\NECROServer\NECROServer.cpp:41] test decimal: 10 || string hey 
+[2025-02-16 21:42:43] [ERROR] [C:\Users\Mattia\Documents\Git Projects\NECROServer\NECROServer.cpp:42] test decimal: 10 || string hey 
+[2025-02-16 21:42:43] [CRITICAL] [C:\Users\Mattia\Documents\Git Projects\NECROServer\NECROServer.cpp:43] test decimal: 10 || string hey 
